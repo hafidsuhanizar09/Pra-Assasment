@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pra_Assesment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hafid_suhanizar">Hafid Suhanizar</string>
+    <string name="persegi_panjang">Persegi Panjang</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="hitung">Hitung</string>
+    <string name="share">Share</string>
+    <string name="nama_hafid_suhanizar">Nama = Hafid Suhanizar</string>
+    <string name="nim_6706183043">NIM = 6706183043</string>
+    <string name="kelas_42_01">Kelas = 42-01</string>
+</resources>
